@@ -10,6 +10,7 @@ import reportWebVitals from './reportWebVitals';
 
 //import Home from './components/Home';
 import App from './components/App';
+import Home from './components/Home';
 
 ReactDOM.render(<HashRouter>
   <div>
